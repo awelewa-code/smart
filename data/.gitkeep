@@ -1,0 +1,2 @@
+# This file ensures the data directory is tracked by git
+# Actual account data (accounts.json) is ignored via .gitignore
